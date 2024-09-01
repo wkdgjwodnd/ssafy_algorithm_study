@@ -24,7 +24,8 @@
 </div>
 
 <div align="center">
-	<a href="mailto:april260@naver.com">
+	<a href="mailto:	
+mechatronics0801@gmail.com">
 		<img src="https://img.shields.io/badge/동성-00205B?style=flat&logo=Gmail&logoColor=white" />
 	<a href="mailto:april260@naver.com">
 		<img src="https://img.shields.io/badge/우현-EF2D5E?style=flat&logo=Gmail&logoColor=white" />
