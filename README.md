@@ -36,7 +36,7 @@ mechatronics0801@gmail.com">
 		<br/>
 	<a href="mailto:april260@naver.com">
 		<img src="https://img.shields.io/badge/용현-1A1A1A?style=flat&logo=Gmail&logoColor=white" />
-	<a href="mailto:april260@naver.com">
+	<a href="mailto:siunm6610@gmail.com">
 		<img src="https://img.shields.io/badge/회선-006272?style=flat&logo=Gmail&logoColor=white" />
 	<a href="mailto:april260@naver.com">
 		<img src="https://img.shields.io/badge/지윤-9999FF?style=flat&logo=Gmail&logoColor=white" />
